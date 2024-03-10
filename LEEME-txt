@@ -1,0 +1,14 @@
+
+### informacio extreta de ###
+# https://github.com/syssi/esphome-jk-bms
+# https://github.com/syssi/esphome-jk-bms/discussions/230
+
+### Home Assistant ###
+# a home assistant s'ha d'instal·lar aquest HACS
+# https://github.com/custom-cards/stack-in-card
+
+### modifica ###
+# la configuracio del ESP32 esta en el arxiu "ESP32_jc-bms-03.yaml"
+# s'ha de modificar el nom "jk-bms-03" 
+# elsgit axiuts targeta_x, s'ha de modificar el nom  "jk-bms-03" 
+

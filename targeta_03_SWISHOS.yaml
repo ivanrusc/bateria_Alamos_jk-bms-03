@@ -1,0 +1,10 @@
+type: entities
+entities:
+  - entity: switch.jk_bms_03_balancer
+    name: Balancer
+  - entity: switch.jk_bms_03_charging
+    name: Charging
+  - entity: switch.jk_bms_03_discharging
+    name: Discharging
+    show_header_toggle: false
+

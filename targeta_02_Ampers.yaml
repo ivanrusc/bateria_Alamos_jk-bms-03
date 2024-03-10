@@ -1,0 +1,16 @@
+type: markdown
+content: >
+  <center><b><font color=#41CD52 size=6>{{ states('sensor.jk_bms_03_current') }}
+  A</font></b><br> Remain Battery:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_state_of_charge') }} %</font><br> Remain
+  Capacity:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_capacity_remaining') }} Ah</font><br> Cycle
+  Count:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_charging_cycles') }}</font><br> Delta Cell
+  Vol.:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_delta_cell_voltage') }} V</font><br> MOS
+  Temp.:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_power_tube_temperature') }} °C</font><br> Battery
+  T2:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_temperature_sensor_2') }} °C</font>
+

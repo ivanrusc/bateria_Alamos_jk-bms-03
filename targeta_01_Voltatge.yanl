@@ -1,0 +1,16 @@
+type: markdown
+content: >-
+  <center><b><font color=#41CD52 size=6>{{
+  states('sensor.jk_bms_03_total_voltage') }} V</font></b><br> Battery
+  Power:&nbsp;&nbsp;<font color=#41CD52>{{ states('sensor.jk_bms_03_power') }}
+  W</font><br> Battery Capacity:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_total_battery_capacity_setting') }} Ah</font><br>
+  Cycle Capacity:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_total_charging_cycle_capacity') }} Ah</font><br> Ave.
+  Cell Vol.:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_average_cell_voltage') }} V</font><br> Balance
+  Cur.:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_balancing_current') }} A</font><br> Battery
+  T1:&nbsp;&nbsp;<font color=#41CD52>{{
+  states('sensor.jk_bms_03_temperature_sensor_1') }} °C</font>
+
