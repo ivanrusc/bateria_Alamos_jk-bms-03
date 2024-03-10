@@ -29,7 +29,7 @@ wifi:
   password: !secret wifi_password
 
 ota:
-  password: "a4d9a51343c68463d35cba4402330d33"
+  password: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   on_begin:
     then:
       - switch.turn_off: ble_client_switch0
@@ -42,7 +42,7 @@ logger:
 # Enable Home Assistant API
 api:
   encryption:
-    key: "vmvZItkUg5HdDHTbSd76W8a4ZD+ZCg7qJLFoYAwx7f4="
+    key: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # mqtt:
 #   broker: !secret mqtt_host
