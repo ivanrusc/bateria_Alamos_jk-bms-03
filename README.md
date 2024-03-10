@@ -1,4 +1,4 @@
-ca:  
+## ca:  ##
 jk bms homeassistant
 en Dani Pacha explica com fer-ho en aquest vídeo.  
 https://youtu.be/GwLoy0pR58A?si=Fyo153DfPwZ0nUpb
@@ -18,7 +18,8 @@ s'ha de modificar el nom "jk-bms-03"
 elsgit axiuts targeta_x, s'ha de modificar el nom  "jk-bms-03" 
 
 
-ES:  
+
+## ES: ##  
 jk bms homeassistant
 Dani Pacha explica cómo hacerlo en este video.  
 https://youtu.be/GwLoy0pR58A?si=Fyo153DfPwZ0nUpb  
@@ -37,7 +38,8 @@ se debe modificar el nombre "jk-bms-03"
 los archivos targeta_x, debe modificarse el nombre "jk-bms-03"  
 
 
-EN:  
+
+## EN:  ##
 jk bms homeassistant
 Dani Pacha, explains how to do it in this video. 
 https://youtu.be/GwLoy0pR58A?si=Fyo153DfPwZ0nUpb 
