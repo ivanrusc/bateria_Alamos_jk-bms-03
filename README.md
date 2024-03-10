@@ -52,7 +52,7 @@ https://github.com/syssi/esphome-jk-bms/discussions/230
 in home assistant must install this HACS  
 https://github.com/custom-cards/stack-in-card  
 
-### modifica ###
-the configuration of ESP32 it's in the file "ESP32_jc-bms-03.yaml"
-the name must be changed "jk-bms-03" 
-the files card_x, the name must be modified  "jk-bms-03" 
+### modifica ###  
+the configuration of ESP32 it's in the file "ESP32_jc-bms-03.yaml"  
+the name must be changed "jk-bms-03"  
+the files card_x, the name must be modified  "jk-bms-03"  
